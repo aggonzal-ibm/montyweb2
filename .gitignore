@@ -29,3 +29,4 @@ coverage
 .cache/
 .config/
 .upm/
+replit_zip_error_log.txt
